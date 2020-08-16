@@ -1,0 +1,25 @@
+body,p,h1,h2,h3,h4,h5,dl,dd,ul,ol,li,form,input,button{
+    margin: 0;
+}
+body{ font-size:12px;font-family:"冬青黑体简体中文","微软雅黑","宋体",Arial,sans-serif;}
+body,ul,ol,input{
+    padding: 0;
+}
+ul,ol,li{
+    list-style: none;
+}
+h1,h2,h3,h4,h5{
+    font-weight: normal;
+}
+a{
+    text-decoration: none;
+}
+i,em{
+    font-style: normal;
+}
+img{
+    vertical-align: top;
+}
+input,button{
+    outline: none;
+}
